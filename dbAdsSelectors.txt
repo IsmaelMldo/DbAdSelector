@@ -23,4 +23,3 @@ div[id*="sticky"]
 [img*="AdContainer"]
 [name*="AdContainer"]
 [class*="AdContainer"]
-
