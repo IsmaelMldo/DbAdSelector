@@ -1,0 +1,2 @@
+iframe[src*="googleads"]
+div[id*="google_ads"]
