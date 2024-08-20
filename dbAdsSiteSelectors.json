@@ -1,0 +1,115 @@
+[
+    {
+        "site": "www.msn.com",
+        "element": "div",
+        "attribute": "class",
+        "value": "intra-article-module",
+        "filter": "contains",
+        
+    },
+    {
+        "site": "www.msn.com",
+        "element": "div",
+        "attribute": "class",
+        "value": "displayAdContainer",
+        "filter": "contains",
+        
+    },
+    {
+        "site": "www.msn.com",
+        "element": "div",
+        "attribute": "class",
+        "value": "consumption-page-banner-ad",
+        "filter": "contains",
+        
+    },
+    {
+        "site": "www.msn.com",
+        "element": "div",
+        "attribute": "class",
+        "value": "consumption-page-banner-wrapper",
+        "filter": "contains",
+        
+    },
+    {
+        "site": "www.msn.com",
+        "element": "div",
+        "attribute": "class",
+        "value": "left-image-intra-ad",
+        "filter": "contains",
+        
+    },
+    {
+        "site": "www.msn.com",
+        "element": "div",
+        "attribute": "class",
+        "value": "ad-slot-placeholder",
+        "filter": "contains",
+        
+    },
+    {
+        "site": "www.msn.com",
+        "element": "div",
+        "attribute": "class",
+        "value": "displayAdContainer",
+        "filter": "contains",
+        
+    },
+    {
+        "site": "www.msn.com",
+        "element": "display-ads",
+        "attribute": "",
+        "value": "",
+        "filter": "equal",
+        
+    },
+    {
+        "site": "www.msn.com",
+        "element": "div",
+        "attribute": "id",
+        "value": "mrr-topad-id-AA1p3D5y",
+        "filter": "contains",
+        
+    },
+    {
+        "site": "www.msn.com",
+        "element": "views-native-ad",
+        "attribute": null,
+        "value": null,
+        "filter": "equal",
+        "": null
+    },
+    {
+        "site": "www.msn.com",
+        "element": "views-native-ad",
+        "attribute": "data-t",
+        "value": "ViewsNativeAd",
+        "filter": "contains",
+        "": null
+    },
+    {
+        "site": "www.msn.com",
+        "element": "above-river-block",
+        "attribute": null,
+        "value": null,
+        "filter": "equal",
+        "": null
+    },
+    {
+        "site": "www.msn.com",
+        "element": "div",
+        "attribute": "id",
+        "value": "google_ads_iframe",
+        "filter": "contains",
+        "": null
+    },
+    {
+        "site": "www.msn.com",
+        "element": "display-ads",
+        "attribute": "data-t",
+        "value": "DisplayAdsWC",
+        "filter": "contains",
+        "": null
+    }
+
+]
