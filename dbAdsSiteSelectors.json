@@ -96,6 +96,20 @@
         "attribute": "data-t",
         "value": "DisplayAdsWC",
         "filter": "contains"
+    },
+    {
+        "site": "common",
+        "element": "iframe",
+        "attribute": "src",
+        "value": "googleads",
+        "filter": "contains"
+    },
+    {
+        "site": "common",
+        "element": "div",
+        "attribute": "id",
+        "value": "google_ads",
+        "filter": "contains"
     }
 
 ]
