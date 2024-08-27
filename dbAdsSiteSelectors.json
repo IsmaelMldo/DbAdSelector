@@ -1,112 +1,112 @@
 [
     {
         "site": "www.msn.com",
-        "element": "div",
+        "tag": "div",
         "attribute": "class",
         "value": "intra-article-module",
         "filter": "contains"
     },
     {
         "site": "www.msn.com",
-        "element": "div",
+        "tag": "div",
         "attribute": "class",
         "value": "displayAdContainer",
         "filter": "contains"
     },
     {
         "site": "www.msn.com",
-        "element": "div",
+        "tag": "div",
         "attribute": "class",
         "value": "consumption-page-banner-ad",
         "filter": "contains"
     },
     {
         "site": "www.msn.com",
-        "element": "div",
+        "tag": "div",
         "attribute": "class",
         "value": "consumption-page-banner-wrapper",
         "filter": "contains"
     },
     {
         "site": "www.msn.com",
-        "element": "div",
+        "tag": "div",
         "attribute": "class",
         "value": "left-image-intra-ad",
         "filter": "contains"
     },
     {
         "site": "www.msn.com",
-        "element": "div",
+        "tag": "div",
         "attribute": "class",
         "value": "ad-slot-placeholder",
         "filter": "contains"
     },
     {
         "site": "www.msn.com",
-        "element": "div",
+        "tag": "div",
         "attribute": "class",
         "value": "displayAdContainer",
         "filter": "contains"
     },
     {
         "site": "www.msn.com",
-        "element": "display-ads",
+        "tag": "display-ads",
         "attribute": "",
         "value": "",
         "filter": "equal"
     },
     {
         "site": "www.msn.com",
-        "element": "div",
+        "tag": "div",
         "attribute": "id",
         "value": "mrr-topad-id-AA1p3D5y",
         "filter": "contains"
     },
     {
         "site": "www.msn.com",
-        "element": "views-native-ad",
+        "tag": "views-native-ad",
         "attribute": null,
         "value": null,
         "filter": "equal"
     },
     {
         "site": "www.msn.com",
-        "element": "views-native-ad",
+        "tag": "views-native-ad",
         "attribute": "data-t",
         "value": "ViewsNativeAd",
         "filter": "contains"
     },
     {
         "site": "www.msn.com",
-        "element": "above-river-block",
+        "tag": "above-river-block",
         "attribute": null,
         "value": null,
         "filter": "equal"
     },
     {
         "site": "www.msn.com",
-        "element": "div",
+        "tag": "div",
         "attribute": "id",
         "value": "google_ads_iframe",
         "filter": "contains"
     },
     {
         "site": "www.msn.com",
-        "element": "display-ads",
+        "tag": "display-ads",
         "attribute": "data-t",
         "value": "DisplayAdsWC",
         "filter": "contains"
     },
     {
         "site": "common",
-        "element": "iframe",
+        "tag": "iframe",
         "attribute": "src",
         "value": "googleads",
         "filter": "contains"
     },
     {
         "site": "common",
-        "element": "div",
+        "tag": "div",
         "attribute": "id",
         "value": "google_ads",
         "filter": "contains"
