@@ -51,8 +51,8 @@
     {
         "site": "www.msn.com",
         "tag": "display-ads",
-        "attribute": "",
-        "value": "",
+        "attribute": null,
+        "value": null,
         "filter": "equal"
     },
     {
