@@ -4,49 +4,49 @@
         "tag": "div",
         "attribute": "class",
         "value": "intra-article-module",
-        "filter": "contains"
+        "filter": "*="
     },
     {
         "site": "www.msn.com",
         "tag": "div",
         "attribute": "class",
         "value": "displayAdContainer",
-        "filter": "contains"
+        "filter": "*="
     },
     {
         "site": "www.msn.com",
         "tag": "div",
         "attribute": "class",
         "value": "consumption-page-banner-ad",
-        "filter": "contains"
+        "filter": "*="
     },
     {
         "site": "www.msn.com",
         "tag": "div",
         "attribute": "class",
         "value": "consumption-page-banner-wrapper",
-        "filter": "contains"
+        "filter": "*="
     },
     {
         "site": "www.msn.com",
         "tag": "div",
         "attribute": "class",
         "value": "left-image-intra-ad",
-        "filter": "contains"
+        "filter": "*="
     },
     {
         "site": "www.msn.com",
         "tag": "div",
         "attribute": "class",
         "value": "ad-slot-placeholder",
-        "filter": "contains"
+        "filter": "*="
     },
     {
         "site": "www.msn.com",
         "tag": "div",
         "attribute": "class",
         "value": "displayAdContainer",
-        "filter": "contains"
+        "filter": "*="
     },
     {
         "site": "www.msn.com",
@@ -60,7 +60,7 @@
         "tag": "div",
         "attribute": "id",
         "value": "mrr-topad-id-AA1p3D5y",
-        "filter": "contains"
+        "filter": "*="
     },
     {
         "site": "www.msn.com",
@@ -74,7 +74,7 @@
         "tag": "views-native-ad",
         "attribute": "data-t",
         "value": "ViewsNativeAd",
-        "filter": "contains"
+        "filter": "*="
     },
     {
         "site": "www.msn.com",
@@ -88,28 +88,28 @@
         "tag": "div",
         "attribute": "id",
         "value": "google_ads_iframe",
-        "filter": "contains"
+        "filter": "*="
     },
     {
         "site": "www.msn.com",
         "tag": "display-ads",
         "attribute": "data-t",
         "value": "DisplayAdsWC",
-        "filter": "contains"
+        "filter": "*="
     },
     {
         "site": "common",
         "tag": "iframe",
         "attribute": "src",
         "value": "googleads",
-        "filter": "contains"
+        "filter": "*="
     },
     {
         "site": "common",
         "tag": "div",
         "attribute": "id",
         "value": "google_ads",
-        "filter": "contains"
+        "filter": "*="
     }
 
 ]
