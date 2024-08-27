@@ -67,7 +67,7 @@
         "tag": "views-native-ad",
         "attribute": null,
         "value": null,
-        "filter": "="
+        "filter": null
     },
     {
         "site": "www.msn.com",
@@ -81,7 +81,7 @@
         "tag": "above-river-block",
         "attribute": null,
         "value": null,
-        "filter": "="
+        "filter": null
     },
     {
         "site": "www.msn.com",
