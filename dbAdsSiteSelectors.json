@@ -53,7 +53,7 @@
         "tag": "display-ads",
         "attribute": null,
         "value": null,
-        "filter": "equal"
+        "filter": null
     },
     {
         "site": "www.msn.com",
@@ -67,7 +67,7 @@
         "tag": "views-native-ad",
         "attribute": null,
         "value": null,
-        "filter": "equal"
+        "filter": "="
     },
     {
         "site": "www.msn.com",
@@ -81,7 +81,7 @@
         "tag": "above-river-block",
         "attribute": null,
         "value": null,
-        "filter": "equal"
+        "filter": "="
     },
     {
         "site": "www.msn.com",
