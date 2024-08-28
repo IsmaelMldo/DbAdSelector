@@ -7,7 +7,13 @@
             "value": null,
             "filter": null
     },
-    
+      {
+            "site": "www.msn.com",
+            "tag":"div",
+            "attribute": "class",
+            "value": "ad-",
+            "filter": "*="
+    },
     {
         "site": "common",
         "tag": "iframe",
