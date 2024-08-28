@@ -102,7 +102,7 @@
             "tag":null,
             "attribute": "data-t",
             "value": "intraArticle",
-            "filter": "*="
+            "filter": "|="
     },
     
     {
