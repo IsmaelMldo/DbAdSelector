@@ -97,6 +97,14 @@
         "value": "DisplayAdsWC",
         "filter": "*="
     },
+     {
+            "site": "www.msn.com",
+            "tag":null,
+            "attribute": "data-t",
+            "value": "intraArticle",
+            "filter": "*="
+    },
+    
     {
         "site": "common",
         "tag": "iframe",
