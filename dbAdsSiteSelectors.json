@@ -99,10 +99,10 @@
     },
      {
             "site": "www.msn.com",
-            "tag":null,
-            "attribute": "data-t",
-            "value": "intraArticle",
-            "filter": "|="
+            "tag":div,
+            "attribute": "class",
+            "value": "intra-Article",
+            "filter": "*="
     },
     
     {
