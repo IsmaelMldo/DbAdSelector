@@ -99,10 +99,10 @@
     },
      {
             "site": "www.msn.com",
-            "tag":div,
-            "attribute": "class",
-            "value": "intra-Article",
-            "filter": "*="
+            "tag":"Views-native-ad",
+            "attribute": null,
+            "value": null,
+            "filter": null
     },
     
     {
