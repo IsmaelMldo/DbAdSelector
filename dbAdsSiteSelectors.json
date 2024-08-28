@@ -15,6 +15,13 @@
             "filter": "*="
     },
     {
+            "site": "www.msn.com",
+            "tag":"div",
+            "attribute": "class",
+            "value": "consumption-page-banner-wrapper",
+            "filter": "*="
+    },
+    {
         "site": "common",
         "tag": "iframe",
         "attribute": "src",
