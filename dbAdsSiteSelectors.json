@@ -21,6 +21,13 @@
             "value": "consumption-page-banner-wrapper",
             "filter": "*="
     },
+  {
+            "site": "www.msn.com",
+            "tag":"div",
+            "attribute": "class",
+            "value": "displayAdContainer",
+            "filter": "*="
+    },   
     {
         "site": "common",
         "tag": "iframe",
