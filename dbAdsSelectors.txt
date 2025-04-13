@@ -39,3 +39,4 @@ div[id*="sticky"]
 [name*="intra-article-ad-placeholder"]
 [class*="intra-article-ad-placeholder"]
 [attribute*="data-ad"]
+display-ads
